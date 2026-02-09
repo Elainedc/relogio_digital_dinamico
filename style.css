@@ -29,6 +29,7 @@ body {
     display: flex;
     align-items: center ;
     gap: 50px;
+    flex-wrap: wrap;
 
 }
 
